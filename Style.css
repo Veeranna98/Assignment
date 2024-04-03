@@ -1,0 +1,27 @@
+.red {
+    color: red;
+  }
+
+  img {
+    margin: 10px;
+    border: 5px solid #555;
+    width: 25%;
+    }
+   
+    .images {
+    display: flex;
+    justify-content: center;
+    }
+   
+    .selected {
+    border: 5px solid rgb(0, 195, 255);
+    }
+    
+    p {
+    text-align: center;
+    }
+    
+    button {
+    margin: 20px;
+    justify-content: center;
+    }
